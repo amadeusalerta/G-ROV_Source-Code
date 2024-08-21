@@ -1,0 +1,1 @@
+TEST VİDEOLARI 100 MB'DAN fazla olduklarından dolayı yüklenemiyor. Github'un yükleme limiti sebebiyle. Bu yüzden klasörlerde sadece kodlar ve boyutu küçük dosyalar mevcut!
